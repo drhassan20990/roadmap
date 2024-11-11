@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "roadmap",
+			"path": "roadmap"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"dennismaxjung.vscode-dotnet-auto-attach",
+			"ms-edgedevtools.vscode-edge-devtools",
+			"ms-dotnettools.vscode-dotnet-sdk",
+			"ms-dotnettools.vscode-dotnet-pack",
+			"ms-dotnettools.vscode-dotnet-runtime",
+			"job.amiga-debug-job",
+			"haselerdev.aiquickfix",
+			"hanwang.android-adb-wlan",
+			"ms-vscode.azure-repos",
+			"ms-vscode.cpptools",
+			"ms-vscode.cpptools-extension-pack",
+			"franneck94.c-cpp-runner",
+			"ms-vscode.cpptools-themes",
+			"ms-dotnettools.csdevkit",
+			"ntoskrnl7.cxx-set-next-statement-extension",
+			"ottostreifel.cloudbuild-helper",
+			"twxs.cmake",
+			"ms-vscode.cmake-tools",
+			"vadimcn.vscode-lldb"
+		]
+	}
+}
